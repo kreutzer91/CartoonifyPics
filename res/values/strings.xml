@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CartoonifyPics</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonText">Cartoonify!</string>
+    <string name="editText_hint">Type File Name Here</string>
+
+</resources>
